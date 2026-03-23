@@ -1,15 +1,12 @@
 {
   "stable": {
-    "version": "1.0.3",
-    "url": "https://umarcodez33.github.io/updates/releases/v1.0.3.zip",
+    "version": "1.0.0",
+    "url": "https://umarcodez33.github.io/updates/releases/v1.0.0.zip",
     "size": "10.7",
     "changelog": [
-      "Reading Mode",
-      "Solved Bugs",
-      "Beta Mode",
-      "New Design"
+      "New"
     ],
-    "timestamp": 1774246822433,
+    "timestamp": 1774249827748,
     "force": false
   },
   "beta": {}
