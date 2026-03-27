@@ -1,9 +1,10 @@
 {
-  "version": "1.0.3",
-  "url": "https://umarcodez33.github.io/updates/nexa/v1.0.3.zip",
+  "version": "1.0.2",
+  "url": "https://umarcodez33.github.io/updates/nexa/v1.0.2.zip",
   "changelog": [
-    "New"
+    "SafeArea",
+    "New WElcome Screen"
   ],
-  "size": "2.97MB",
-  "timestamp": "2026-03-26T16:06:18.839Z"
+  "size": "3.66MB",
+  "timestamp": "2026-03-27T04:54:33.870Z"
 }
